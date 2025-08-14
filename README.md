@@ -13,8 +13,8 @@ Ich helfe Unternehmen, komplexe IT- und Bauprozesse zu digitalisieren, zu automa
 ---
 
 ## 💼 Über mich
-- **Head of IT – Produktentwicklung** & **Unternehmensbereichsleiter IT** in einem interdisziplinären Baubranchen-Startup  
-- **Co-Founder** der **Scala X GmbH**, spezialisiert auf präzise Bestandsdigitalisierung durch moderne Laser-Scan-Technologie  
+- **Head of IT – Produktentwicklung** & **Unternehmensbereichsleiter IT** in einem interdisziplinären Startup in der Baubranche
+- **Co-Founder** der **Scala X GmbH**, spezialisiert auf präzise Bestandsdigitalisierung durch moderne Laserscan-Technologie  
 - Erfahrung als **Teamleiter**, **Cloud-Systemarchitekt** und **Freelancer**
 
 ---
