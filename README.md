@@ -1,70 +1,40 @@
-# 👋 Hi, ich bin Jonas Haude
+<p align="center">
+<a href="https://jonashaude.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Jonas Haude – IT'ler auf'm Bau. Co-Founder von Scala X, Head of IT bei thinkBIC.">
+</picture>
+</a>
+</p>
 
-🚀 **Full-Stack Softwareentwickler | IT-Leader | Cloud-Architekt**  
-Ich helfe Unternehmen, komplexe IT- und Bauprozesse zu digitalisieren, zu automatisieren und skalierbar zu gestalten – mit modernsten **Cloud-, SaaS- und KI-Lösungen**.  
-💡 Mein Ziel: Technologien so einsetzen, dass sie echten Mehrwert schaffen und Branchen nachhaltig transformieren.
+<p align="center">
+<a href="mailto:hallo@jonashaude.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" height="40" alt="hallo@jonashaude.de"></picture></a>&nbsp;
+<a href="https://jonashaude.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.svg"><img src="assets/btn-web-light.svg" height="40" alt="jonashaude.de"></picture></a>&nbsp;
+<a href="https://linkedin.com/in/jonashaude"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;
+<a href="https://instagram.com/jonashaude"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-instagram-dark.svg"><img src="assets/btn-instagram-light.svg" height="40" alt="Instagram"></picture></a>
+</p>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fixes-dark.svg">
+  <img src="assets/fixes-light.svg" width="100%" alt="Drei Baustellen. Jeden Tag. Scan4X: Bestand wird Modell. Scan4POI: Punktwolke wird Gebäudedaten. thinkBIC: KI prüft mit.">
+</picture>
+</p>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonashaude)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonashaude)
+<p align="center">
+<a href="https://scala-x.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/scalax-dark.svg">
+  <img src="assets/scalax-light.svg" width="100%" alt="Was ich bei Scala X baue: Scan4X, Scan4POI, Scan4Documentation, Scan4Valuation, Scan4ESG.">
+</picture>
+</a>
+</p>
 
----
-
-## 💼 Über mich
-- **Head of IT – Produktentwicklung** & **Unternehmensbereichsleiter IT** in einem interdisziplinären Startup in der Baubranche
-- **Co-Founder** der **Scala X GmbH**, spezialisiert auf präzise Bestandsdigitalisierung durch moderne Laserscan-Technologie  
-- Erfahrung als **Teamleiter**, **Cloud-Systemarchitekt** und **Freelancer**
-
----
-
-## 🚀 Aktuelle Highlights
-
-### 🔹 Scala X – Digitale Transformation der Baubranche
-- **Digitize. Analyze. Optimize.** – Modernste 3D-Scanning-Technologie für präzise Bestandsdaten  
-- Services:
-  - **SCAN4DOCUMENTATION** → BIM-basierte Dokumentation für Facility Management, Umnutzung & Umbau  
-  - **SCAN4VALUATION** → Präzise Punktwolken für Immobilienbewertung  
-  - **SCAN4ESG** → Nachhaltige Immobilienstrategien & digitale Bestandsdaten  
-➡ Mehr Infos: [scala-x.de](https://scala-x.de)
-
-### 🔹 thinkBIC – Building Information Cloud
-- SaaS-Lösungen für digitale Prüfungen & Auswertungen von Bauprojektunterlagen mit **KI & LLM**  
-- **planBIC** → Automatisierter HOAI-Check & BIM-basierte Planungskontrolle  
-- **chatBIC** → KI-gestützter Chat-Assistent auf Azure OpenAI  
-- **goBIC** → Individuell anpassbare Tools für Bau- und Prüfprozesse  
-➡ Mehr Infos: [thinkbic.de](https://thinkbic.de)
-
----
-
-## 💻 Tech-Stack
-
-**Sprachen & Frameworks**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**Tools & Libraries**  
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## 📫 Kontakt
-📧 **hallo@jonashaude.de**  
-💼 [LinkedIn](https://linkedin.com/in/jonashaude) • [Instagram](https://instagram.com/jonashaude)
+<p align="center">
+<a href="mailto:hallo@jonashaude.de">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/kontakt-dark.svg">
+  <img src="assets/kontakt-light.svg" width="100%" alt="Lass uns die Branche umbauen. hallo@jonashaude.de">
+</picture>
+</a>
+</p>
